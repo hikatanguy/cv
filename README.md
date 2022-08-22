@@ -2,7 +2,7 @@
 *Engineering manager of IT technical teams and IT projects. <br> 
 Former network engineer and architect.*
 
-[Email](alexandre@tanguy.pro) | [LinkedIn](https://www.linkedin.com/in/alexandretanguy/)
+[Email](alexandre@tanguy.pro) / [LinkedIn](https://www.linkedin.com/in/alexandretanguy/) <br>
 
 ## Professional experience
 TBC
