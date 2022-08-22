@@ -1,5 +1,6 @@
 # Alexandre TANGUY
-*Engineering manager of IT technical teams and IT projects. Former network engineer and architect.*
+*Engineering manager of IT technical teams and IT projects. <br> 
+Former network engineer and architect.*
 
 [Email](alexandre@tanguy.pro) | [LinkedIn](https://www.linkedin.com/in/alexandretanguy/)
 
