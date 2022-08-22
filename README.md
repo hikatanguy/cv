@@ -1,8 +1,10 @@
 # Alexandre TANGUY
-*Engineering manager of IT technical teams and IT projects. <br> 
-Former network engineer and architect.*
+Engineering manager of IT technical teams and projects with a network and security engineer background.
 
 [Send me an email](mailto:alexandre@tanguy.pro) / [Find me on LinkedIn](https://www.linkedin.com/in/alexandretanguy/) <br>
+
+## Who am I and what am I looking for?
+After 8 years in the tech, as a network and security engineer, where I learned blablabla and blablabla, I understood that I was happier leading a team, achieving big projects and helping my team mates growing in their own skills. 
 
 ## Professional experience
 TBC
@@ -10,8 +12,9 @@ TBC
 ## Education and languages
 TBC
 
-## Volunteering
-TBC
+## Activities and interests 
+* **Hobbies**: reading (a lot!), 
+* **Sports**: climbing/bouldering, running, cycling.  
 
-## Hobbies
+## Volunteering
 TBC
