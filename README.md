@@ -6,7 +6,7 @@
 >
 > Leader of IT technical teams and projects with a network and security engineer background. I am not a software engineer. <br >
 >
-> [![Send me an email](https://img.shields.io/badge/Send_me_an-email-267CB9?style=flat&logo=maildotru)](mailto:alexandre@tanguy.pro) [![Join me on LinkedIn](https://img.shields.io/badge/Join_me_on-LinkedIn-267CB9?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexandretanguy/) [![Download in PDF](https://img.shields.io/badge/Download_in-PDF-267CB9?style=flat&logo=docusign)](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.pdf)
+> [![](https://img.shields.io/badge/Email-267CB9?style=for-the-badge&logo=maildotru)](mailto:alexandre@tanguy.pro) [![](https://img.shields.io/badge/AlexandreTanguy-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandretanguy/) [![](https://img.shields.io/badge/PDF-Download-267CB9?style=for-the-badge)](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.pdf)
 
 ---
 
@@ -31,7 +31,7 @@ Member of the Network Design Datacenter team, I was in charge of the vRack produ
 
   - In charge of the design of network products 
   - In charge of R&D on some projects
-  - _Technologies: BGP, VXLAN, ECMP, Cisco and Arista devices_
+  - **_Technologies:_** BGP, VXLAN, ECMP, Cisco and Arista devices
 <br><br>
 
 **Network and Security Engineer** @ [Cdiscount](https://www.cdiscount.com) _(January 2016 - Mars 2018)_ <br>
@@ -39,7 +39,7 @@ Member of the Security team for 1 year and then the SRE team for 1 year (interna
 
   - In charge of 
   - In charge of
-  - _Technologies: Cisco ACI, Checkpoint firewalls, F5 loadbalancers_
+  - **_Technologies:_** Cisco ACI, Checkpoint firewalls, F5 loadbalancers
 <br><br>
 
 ## Education and languages
