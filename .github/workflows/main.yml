@@ -16,13 +16,13 @@ jobs:
       - uses: actions/checkout@v3
       - name: Install packages
         run: |
-          sudo apt-get -y install pandoc wkhtmltopdf
+          sudo apt-get -y install pandoc wkhtmltopdf librsvg2-bin
       - name: Generate the HTML file
         run: pandoc --standalone -c style_alex.css --from markdown --to html -o out/cv_alexandre_tanguy.html README.md
       - name: Generate the PDF file
         run: wkhtmltopdf out/cv_alexandre_tanguy.html out/cv_alexandre_tanguy.pdf
       - name: Generate the DOCX file
-        run: pandoc --from markdown --to docx -o out/cv_alexandre_tanguy.docx README.md
+        run: pandoc --reference-doc=out/custom-reference.docx --from markdown --to docx -o out/cv_alexandre_tanguy.docx README.md
       - name: Commit files  # commit those 2 new files in the repo
         run: |
           git config --local user.name  ${{ github.actor }}
