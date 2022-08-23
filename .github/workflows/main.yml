@@ -1,0 +1,29 @@
+# .github/workflows/main.yml
+
+name: Markdown to HTML and PDF
+on:
+  push:
+    branches:
+      - main
+    # Paths can be used to only trigger actions when you have edited certain files
+    paths:
+      - 'README.md'
+
+jobs:
+  converttopdf:
+    name: Build HTML and PDF 
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: baileyjm02/markdown-to-pdf@v1.2.0
+        with:
+          input_path: README.md
+          output_dir: out
+          build_pdf: true
+          build_html: true
+          theme: out/style_alex.css
+          table_of_contents: false
+      - uses: actions/upload-artifact@v3.1
+        with:
+          name: generated-output
+          path: out
