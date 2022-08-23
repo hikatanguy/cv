@@ -16,16 +16,15 @@
 After 8 years in the tech field, as a network and security engineer, where I learned lots of things and grow up as an engineer and a human being, I understood that I was happier leading a team and helping them to achieve big projects and grow in their skills. Moreover...
 
 ## Professional experience
-**Engineering Manager @ [OVHcloud](https://www.ovhcloud.com)** *(January 2020 - Present)*
 
+**Engineering Manager @ [OVHcloud](https://www.ovhcloud.com)** *(January 2020 - Present)*
 * In charge of the Network Data squad, composed of the Network Observability and the Network IPAM teams.
 * Follow-up of projects
 * Creation of roadmaps with Program managers support
 
 **Network engineer @ [OVHcloud](https://www.ovhcloud.com)** *(Mars 2018 - January 2020)*
-
 * In charge of the design of network products 
-* In charge of R&D 
+* In charge of R&D on some projects
 
 ## Education and languages
 TBC
