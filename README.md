@@ -5,10 +5,8 @@
 > ### Engineering manager
 >
 > Leader of IT technical teams and projects with a network and security engineer background. I am not a software engineer. <br >
-> 
-> [Send me an email](mailto:alexandre@tanguy.pro) / [Find me on LinkedIn](https://www.linkedin.com/in/alexandretanguy/) <br >
 >
-> [![Download in PDF](https://img.shields.io/badge/Download_in-PDF-blue?style=flat&logo=github)](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.pdf)  [![Download in DOCX](https://img.shields.io/badge/Download_in-DOCX-blue?style=flat&logo=microsoftword)](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.docx)
+> [![Send me an email](https://img.shields.io/badge/Send_me_an-email-7381ba?style=flat&logo=maildotru)](mailto:alexandre@tanguy.pro) [![Join me on LinkedIn](https://img.shields.io/badge/Join_me_on-LinkedIn-7381ba?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexandretanguy/) [![Download in PDF](https://img.shields.io/badge/Download_in-PDF-7381ba?style=flat&logo=readthedocs)](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.pdf)
 
 ---
 
