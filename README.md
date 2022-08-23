@@ -15,7 +15,7 @@
 <br>
 
 ## Who am I and what am I looking for?
-After 8 years in the tech, as a network and security engineer, where I learned lots of things and grow up as an engineer and a human being, I understood that I was happier leading a team and helping them to achieve big projects and grow in their skills. Moreover...
+After 8 years in the tech field, as a network and security engineer, where I learned lots of things and grow up as an engineer and a human being, I understood that I was happier leading a team and helping them to achieve big projects and grow in their skills. Moreover...
 
 ## Professional experience
 **Engineering Manager @ [OVHcloud](https://www.ovhcloud.com)** *(Mars 2018 - Present)*
