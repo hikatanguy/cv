@@ -15,15 +15,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: baileyjm02/markdown-to-pdf@v1
+      - name: Generate the HTML file
+        run: pandoc --standalone -c style_alex.css --from markdown --to html -o out/cv_alexandre_tanguy.html README.md
+      - name: Generate the PDF file
+        run: wkhtmltopdf out/cv_alexandre_tanguy.html out/cv_alexandre_tanguy.pdf
+      - name: Generate the DOCX file
+        run: pandoc --from markdown --to docx -o out/cv_alexandre_tanguy.docx README.md
+      - name: Commit files  # commit those 2 new files in the repo
+        run: |
+          git config --local user.name  ${{ github.actor }}
+          git add ./out
+          git commit -m "Automated creation of HTML/DOCX/PDF versions"
+      - name: Push changes  # push the output folder to your repo
+        uses: ad-m/github-push-action@master
         with:
-          input_path: README.md
-          output_dir: out
-          build_pdf: true
-          build_html: true
-          theme: out/style_alex.css
-          table_of_contents: false
-      - uses: actions/upload-artifact@v3
-        with:
-          name: generated-output
-          path: out
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
