@@ -8,7 +8,7 @@
 > 
 > [Send me an email](mailto:alexandre@tanguy.pro) / [Find me on LinkedIn](https://www.linkedin.com/in/alexandretanguy/) <br>
 >
-> [![Watch on GitHub](https://img.shields.io/badge/Download-PDF-informational?style=social&logo=github)](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.pdf)
+> [![Download the PDF](https://img.shields.io/badge/Download_this_CV-PDF-informational?style=social&logo=github)](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.pdf)  [![Download the DOCX](https://img.shields.io/badge/Download_this_CV-DOCX-informational?style=social&logo=microsoftword)](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.docx)
 
 ---
 
