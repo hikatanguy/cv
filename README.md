@@ -1,13 +1,12 @@
 # Alexandre TANGUY
 
 ---
-**Engineering manager**<br>
-
-Leader of IT technical teams and projects with a network and security engineer background.<br>
-I am not a software engineer.
-
-[Send me an email](mailto:alexandre@tanguy.pro) / [Find me on LinkedIn](https://www.linkedin.com/in/alexandretanguy/) <br>
-
+> **Engineering manager**
+>
+> Leader of IT technical teams and projects with a network and security engineer background. I am not a software engineer.
+> 
+> [Send me an email](mailto:alexandre@tanguy.pro) / [Find me on LinkedIn](https://www.linkedin.com/in/alexandretanguy/) <br>
+>
 ---
 
 ## Who am I and what am I looking for?
