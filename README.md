@@ -17,7 +17,6 @@ After 8 years in the tech field, as a network and security engineer, where I lea
 <br><br>
 
 ## Professional experience
-
 **Engineering Manager @ [OVHcloud](https://www.ovhcloud.com)** *(January 2020 - Present)* <br>
 Team leader of the Network Data squad, composed of the Network Observability and the Network IPAM teams.
   - Point of contact for other teams and PU, for Network observability and IP related topics
@@ -26,13 +25,14 @@ Team leader of the Network Data squad, composed of the Network Observability and
   - Agile methodology implementation and animation: sprint planning, daily, sprint review, retrospectives, etc.
 <br><br>
 
-**Network engineer @ [OVHcloud](https://www.ovhcloud.com)** *(Mars 2018 - January 2020)* <br>
+**Network Engineer @ [OVHcloud](https://www.ovhcloud.com)** *(Mars 2018 - January 2020)* <br>
+Member of the Network Design Datacenter team, I was in charge of the vRack product design and projects.
   - In charge of the design of network products 
   - In charge of R&D on some projects
   - **Technologies**: BGP, VXLAN, ECMP, Cisco and Arista devices
 <br><br>
 
-** Network and security engineer @ [Cdiscount](https://www.cdiscount.com)** *(January 2016 - Mars 2018)* <br>
+**Network and Security Engineer @ [Cdiscount](https://www.cdiscount.com)** *(January 2016 - Mars 2018)* <br>
 Member of the Security team for 1 year and then the SRE team for 1 year (internal move-up).
   - In charge of 
   - In charge of
