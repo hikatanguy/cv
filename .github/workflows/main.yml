@@ -22,10 +22,11 @@ jobs:
       - name: Generate the PDF file
         run: wkhtmltopdf out/cv_alexandre_tanguy.html out/cv_alexandre_tanguy.pdf
       - name: Generate the DOCX file
-        run: pandoc --reference-doc out/custom-reference.docx --from markdown --to docx -o out/cv_alexandre_tanguy.docx README.md
-      - name: Commit files  # commit those 2 new files in the repo
+        run: pandoc --reference-doc out/custom-reference.docx -o out/cv_alexandre_tanguy.docx README.md
+      - name: Commit files  # commit those 3 new files in the repo
         run: |
-          git config --local user.name  ${{ github.actor }}
+          git config --local user.name hikatanguy
+          git config --local user.mail hikaruteam@gmail.com
           git add ./out
           git commit -m "Automated creation of HTML/DOCX/PDF versions"
       - name: Push changes  # push the output folder to your repo
