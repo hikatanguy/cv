@@ -10,11 +10,11 @@
 
 ---
 
+<br>
 
 ## Who am I and what am I looking for?
 After 8 years in the tech field, as a network and security engineer, where I learned lots of things and grow up as an engineer and a human being, I understood that I was happier leading a team and helping them to achieve big projects and grow in their skills. Moreover...
-
-<br>
+<br><br>
 
 ## Professional experience
 
@@ -24,17 +24,20 @@ Team leader of the Network Data squad, composed of the Network Observability and
   - Follow-up on projects
   - Creation of roadmaps with Program managers support
   - Agile methodology implementation and animation: sprint planning, daily, sprint review, retrospectives, etc.
+<br><br>
 
 **Network engineer @ [OVHcloud](https://www.ovhcloud.com)** *(Mars 2018 - January 2020)* <br>
   - In charge of the design of network products 
   - In charge of R&D on some projects
   - **Technologies**: BGP, VXLAN, ECMP, Cisco and Arista devices
+<br><br>
 
 ** Network and security engineer @ [Cdiscount](https://www.cdiscount.com)** *(January 2016 - Mars 2018)* <br>
 Member of the Security team for 1 year and then the SRE team for 1 year (internal move-up).
   - In charge of 
   - In charge of
   - **Technologies**: Cisco ACI, Checkpoint firewalls, F5 loadbalancers 
+<br><br>
 
 ## Education and languages
 TBC
