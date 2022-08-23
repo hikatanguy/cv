@@ -15,6 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Install packages
+        run: |
+          sudo apt-get -y install pandoc wkhtmltopdf
       - name: Generate the HTML file
         run: pandoc --standalone -c style_alex.css --from markdown --to html -o out/cv_alexandre_tanguy.html README.md
       - name: Generate the PDF file
