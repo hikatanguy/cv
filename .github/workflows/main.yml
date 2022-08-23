@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: baileyjm02/markdown-to-pdf@v1.2.0
+      - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_path: README.md
           output_dir: out
@@ -23,7 +23,7 @@ jobs:
           build_html: true
           theme: out/style_alex.css
           table_of_contents: false
-      - uses: actions/upload-artifact@v3.1
+      - uses: actions/upload-artifact@v3
         with:
           name: generated-output
           path: out
