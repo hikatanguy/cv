@@ -1,4 +1,3 @@
-# Alexandre TANGUY
 
 ---
 
