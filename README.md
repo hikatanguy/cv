@@ -17,26 +17,24 @@ After 8 years in the tech field, as a network and security engineer, where I lea
 <br>
 
 ## Professional experience
-**Engineering Manager @ [OVHcloud](https://www.ovhcloud.com)** *(January 2020 - Present)*
 
+**Engineering Manager @ [OVHcloud](https://www.ovhcloud.com)** *(January 2020 - Present)*<br>
 Team leader of the Network Data squad, composed of the Network Observability and the Network IPAM teams.
+  - Point of contact for other teams and PU, for Network observability and IP related topics
+  - Follow-up on projects
+  - Creation of roadmaps with Program managers support
+  - Agile methodology implementation and animation: sprint planning, daily, sprint review, retrospectives, etc.
 
-* Point of contact for other teams and PU, for Network observability and IP related topics
-* Follow-up on projects
-* Creation of roadmaps with Program managers support
-* Agile methodology implementation and animation: sprint planning, daily, sprint review, retrospectives, etc.
-
-**Network engineer @ [OVHcloud](https://www.ovhcloud.com)** *(Mars 2018 - January 2020)*
-
-* In charge of the design of network products 
-* In charge of R&D on some projects
+**Network engineer @ [OVHcloud](https://www.ovhcloud.com)** *(Mars 2018 - January 2020)*<br>
+  - In charge of the design of network products 
+  - In charge of R&D on some projects
 
 ## Education and languages
 TBC
 
 ## Activities and interests
-* **Hobbies**: reading (a lot!),
-* **Sports**: climbing/bouldering, running, cycling.
+  - **Hobbies**: reading (a lot!),
+  - **Sports**: climbing/bouldering, running, cycling.
 
 ## Volunteering
 TBC
