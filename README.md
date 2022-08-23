@@ -6,7 +6,7 @@
 >
 > Leader of IT technical teams and projects with a network and security engineer background. I am not a software engineer. <br >
 >
-> [![](https://img.shields.io/badge/Email-267CB9?style=for-the-badge&logo=maildotru)](mailto:alexandre@tanguy.pro) [![](https://img.shields.io/badge/AlexandreTanguy-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandretanguy/) [![](https://img.shields.io/badge/PDF-Download-267CB9?style=for-the-badge)](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.pdf)
+> [![](https://img.shields.io/badge/PDF-Download-267CB9?style=for-the-badge)](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.pdf) [![](https://img.shields.io/badge/Contact_me-267CB9?style=for-the-badge&logo=maildotru)](mailto:alexandre@tanguy.pro) [![](https://img.shields.io/badge/AlexandreTanguy-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandretanguy/) 
 
 ---
 
