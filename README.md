@@ -2,11 +2,12 @@
 
 ---
 
-> **Engineering manager**
+> ### Engineering manager
 >
-> Leader of IT technical teams and projects with a network and security engineer background. I am not a software engineer.
+> Leader of IT technical teams and projects with a network and security engineer background. I am not a software engineer. <br >
 > 
-> [Send me an email](mailto:alexandre@tanguy.pro) / [Find me on LinkedIn](https://www.linkedin.com/in/alexandretanguy/) <br>
+> [Send me an email](mailto:alexandre@tanguy.pro) / [Find me on LinkedIn](https://www.linkedin.com/in/alexandretanguy/) <br >
+>
 > [![Download in PDF](https://img.shields.io/badge/Download_in-PDF-blue?style=flat&logo=github)](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.pdf)  [![Download in DOCX](https://img.shields.io/badge/Download_in-DOCX-blue?style=flat&logo=microsoftword)](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.docx)
 
 ---
