@@ -7,6 +7,8 @@
 > Leader of IT technical teams and projects with a network and security engineer background. I am not a software engineer.
 > 
 > [Send me an email](mailto:alexandre@tanguy.pro) / [Find me on LinkedIn](https://www.linkedin.com/in/alexandretanguy/) <br>
+>
+> [https://img.shields.io/badge/Download-PDF-informational?style=social&logo=appveyor](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.pdf)
 
 ---
 
