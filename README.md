@@ -44,10 +44,12 @@ Member of the Security team for 1 year and then the SRE team for 1 year (interna
 
 ## Education and languages
 TBC
+<br><br>
 
 ## Activities and interests
   - **Hobbies**: reading (a lot!),
   - **Sports**: climbing/bouldering, running, cycling.
+<br><br>
 
 ## Volunteering
 TBC
