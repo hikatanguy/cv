@@ -1,9 +1,8 @@
 # Alexandre TANGUY
-<br>
 
 ---
 
-### Engineering manager
+## Engineering manager
 
 Leader of IT technical teams and projects with a network and security engineer background. I am not a software engineer. <br >
 
