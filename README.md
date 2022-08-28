@@ -29,18 +29,25 @@ Today, I love this mission and I am eager to continue in a challenging (new?) en
 **Engineering Manager** @ [OVHcloud](https://www.ovhcloud.com) in Bordeaux _(January 2020 - Present)_ <br>
 *Team leader of the Network Data squad, composed of the Network Observability and the Network IPAM teams.*
 
-  - The *Network Observability* team has the mission to design, develop, deploy and maintain internal applications to monitor tens of thousands of network devices: 
+  - The *Network Observability* team (5 to 8 engineers) has the mission to design, develop, deploy and maintain internal applications to monitor tens of thousands of network devices: 
     - Metrics: 50M+ timeseries / 1M+ datapoint per second
     - Logs: 25M+ log messages per day
     - ICMP requests/packets: 18M+ packets per minute
     - Lots of more specific applications in the portfolio (alerts routing, path discovery, BUM collector, etc.)
 
-  - The *Network IP Management* team has the mission to design, build and maintain applications to manage (for internal and external customers) around 4.5M public IP addresses in 3 RIR (RIPE, ARIN, APNIC) 
+  - The *Network IP Management (IPAM)* team (2 to 3 engineers) is in charge of managing the OVHcloud IP addresses plan and its growth. This team also develops every tools and backend required to allow OVHcloud squads and units to use, reserve, attribute and release IP addresses. She is also in close relation with the external IP providers (RIPE, ARIN, APNIC). 
 
   - Point of contact for other teams and PU about Network observability and IP related topics
   - Follow-up on projects and program, estimation of required workload, planification
   - Creation of rolling roadmaps with Program managers support over 12 months
   - Agile methodology implementation and animation: sprint planning, daily, sprint review, retrospective, etc.
+
+  Notable projects (leading, not writing code):
+   - Build a MAC addresses collector at scale and processing pipeline to help operational teams locate servers in a big VXLAN network (Kotlin/Kubernetes/S3/Dremio)
+   - SNMP/API/Telemetry distributed metrics polling at scale (java)
+   - Implement a workflow processing tool to filter and route alerts from any source (our applications) towards many outputs (kafka, API, Opsgenie, etc.)
+   - Maintain and improve an ICMP Scanner application created by the team: end-to-end monitoring system sending ICMP packets towards +4 millions IPs every 15s and processing the result
+   - Build a complete application with GO workers deployed on network devices to discover and graph every network paths (ECMP compatible) between two servers in the OVHcloud infrastructure (worldwide)
 <br><br>
 
 **Network Engineer** @ [OVHcloud](https://www.ovhcloud.com) in Bordeaux _(Mars 2018 - January 2020)_ <br>
