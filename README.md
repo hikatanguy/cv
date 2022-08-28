@@ -43,6 +43,7 @@ Today, I love this mission and I am eager to continue in a challenging (new?) en
   - Agile methodology implementation and animation: sprint planning, daily, sprint review, retrospective, etc.
 
   Notable projects (leading, not writing code):
+  
    - Build a MAC addresses collector at scale and processing pipeline to help operational teams locate servers in a big VXLAN network (Kotlin/Kubernetes/S3/Dremio)
    - SNMP/API/Telemetry distributed metrics polling at scale (java)
    - Implement a workflow processing tool to filter and route alerts from any source (our applications) towards many outputs (kafka, API, Opsgenie, etc.)
