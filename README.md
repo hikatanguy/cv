@@ -5,7 +5,7 @@
 
 Head of IT technical teams and projects with a network and security engineer background.<br>
 
-  - What I (love to) do: management of teams, encouraging excellence, lead by example, being data-driven and customer-oriented.<br>
+  - What I (love to) do: management of teams, encouraging excellence, lead by example, being data-driven and customer-oriented, collect of requirements.<br>
   - What I am not: a software engineer. This is important to have in mind that I don't do software development myself.<br ><br>
 
 [![](https://img.shields.io/badge/PDF-267CB9?style=for-the-badge&logo=docusign)](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.pdf) &nbsp; [![](https://img.shields.io/badge/Email-267CB9?style=for-the-badge&logo=maildotru)](mailto:alexandre@tanguy.pro) &nbsp; [![](https://img.shields.io/badge/LinkedIn-267CB9?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandretanguy/) <br><br>
@@ -17,10 +17,12 @@ Head of IT technical teams and projects with a network and security engineer bac
 ## Who am I and what am I looking for?
 Information technology engineer and manager, 33 years old, father of 2, living in Bordeaux, France.
 
-After 8 years in the tech field as a network and security engineer, where I learned lots of things and grow up as an engineer and a human being, I understood that I was happier and better leading a team and helping its members to grow. 
+Passionate by the tech universe, project and human management.
+
+After 7 years in the tech field as a network and security engineer, where I learned lots of things and grow up as an engineer and a human being, I understood that I was happier and better leading a team and helping its members to grow. 
 
 I seized the opportuny offered by OVHcloud to manage one – and then two – teams of software engineers.<br>
-Today, I love this mission and I am eager to continue in a challenging environment with great ambition, to build strong teams and achieve big projects. 
+Today, I love this mission and I am eager to continue in a challenging (new?) environment with great ambition, to build strong teams and achieve big projects. 
 <br><br>
 
 ## Professional experience
