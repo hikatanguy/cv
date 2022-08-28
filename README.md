@@ -14,7 +14,8 @@ Head of IT technical teams and projects with a network and security engineer bac
 <br>
 
 ## Who am I and what am I looking for?
-Information technology engineer and manager, 33 years old, living in Bordeaux, France.<br>
+Information technology engineer and manager, 33 years old, living in Bordeaux, France.
+
 After 8 years in the tech field as a network and security engineer, where I learned lots of things and grow up as an engineer and a human being, I understood that I was happier and better leading a team and helping its members to grow. 
 
 I seized the opportuny offered by OVHcloud to manage one – and then two – teams of software engineers.<br>
@@ -25,8 +26,11 @@ Today, I love this mission and I am eager to continue in a challenging environme
 **Engineering Manager** @ [OVHcloud](https://www.ovhcloud.com) _(January 2020 - Present)_ <br>
 *Team leader of the Network Data squad, composed of the Network Observability and the Network IPAM teams.*
 
-1. Observability: build and maintain internal applications to monitor tens of thousands of network devices -> 50M+ timeseries / 1M+ datapoint per seconds / 25M+ log messages per day
-2. IPAM: managing application and legal aspects for around 4.5M public IP addresses in 3 RIR (RIPE, ARIN, APNIC) 
+  - The *Network Observability* team has the mission to design, develop, deploy and maintain internal applications to monitor tens of thousands of network devices: 
+    - Metrics: 50M+ timeseries / 1M+ datapoint per second
+    - Logs: 25M+ log messages per day
+    - ICMP requests/packets: 18M+ packets per minute
+  - The *Network IP Management* team has the mission to design, build and maintain applications to manage (internal and external customers) around 4.5M public IP addresses in 3 RIR (RIPE, ARIN, APNIC) 
 
   - Point of contact for other teams and PU about Network observability and IP related topics
   - Follow-up on projects and program, estimation of required workload, planification
