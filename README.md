@@ -1,11 +1,12 @@
 # Alexandre TANGUY
-
+<br> 
 
 ### Engineering manager
 
 Head of IT technical teams and projects with a network and security engineer background.<br>
-- What I (love to) do: management of teams, encouraging excellence, lead by example, being data-driven and customer-oriented.<br>
-- What I am not: a software engineer. This is important to have in mind that I don't do software development myself.<br ><br>
+
+  - What I (love to) do: management of teams, encouraging excellence, lead by example, being data-driven and customer-oriented.<br>
+  - What I am not: a software engineer. This is important to have in mind that I don't do software development myself.<br ><br>
 
 [![](https://img.shields.io/badge/PDF-267CB9?style=for-the-badge&logo=docusign)](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.pdf) &nbsp; [![](https://img.shields.io/badge/Email-267CB9?style=for-the-badge&logo=maildotru)](mailto:alexandre@tanguy.pro) &nbsp; [![](https://img.shields.io/badge/LinkedIn-267CB9?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandretanguy/) <br><br>
 
@@ -14,7 +15,7 @@ Head of IT technical teams and projects with a network and security engineer bac
 <br>
 
 ## Who am I and what am I looking for?
-Information technology engineer and manager, 33 years old, living in Bordeaux, France.
+Information technology engineer and manager, 33 years old, father of 2, living in Bordeaux, France.
 
 After 8 years in the tech field as a network and security engineer, where I learned lots of things and grow up as an engineer and a human being, I understood that I was happier and better leading a team and helping its members to grow. 
 
@@ -74,7 +75,7 @@ Today, I love this mission and I am eager to continue in a challenging environme
   - **_Technologies:_** Cisco Catalyst, Checkpoint firewalls, Citrix Netscaler
 <br><br>
 
-**Network and Security Engineer** @ [Crédit Agricole - CA Technologies & Services](https://www.credit-agricole.com/marques-et-metiers/toutes-nos-marques/credit-agricole-technologies-et-services) in Lyon (internship) _(July 2011 - November 2012)_<br>
+**Network and Security Engineer** @ [Crédit Agricole - CA Technologies & Services](https://www.credit-agricole.com/marques-et-metiers/toutes-nos-marques/credit-agricole-technologies-et-services) in Lyon _(July 2011 - November 2012)_<br>
 *Internship and then "contrat de professionnalisation"*
 
   - Assistant of the project lead of the "Migration X25" project
@@ -82,10 +83,10 @@ Today, I love this mission and I am eager to continue in a challenging environme
 <br><br> 
 
 ## Education and languages
-  - *January 2015*: CCNA v2 certification (200-120). Result: 958/1000
-  - *2012*: **TOEIC 940/990**
-  - *2007 - 2012*: **SUPINFO - Engineer in IT technologies** (french Bac+5 Master II niveau 1)
-  - *June 2007*: BAC S specialty mathematics (Baccalauréat Scientifique spécialité Mathématiques)
+  - January 2015: CCNA v2 certification (200-120). Result: 958/1000
+  - 2012: **TOEIC 940/990**
+  - 2007 - 2012: **SUPINFO - Engineer in IT technologies** (french Bac+5 Master II niveau 1)
+  - June 2007: BAC S specialty mathematics (Baccalauréat Scientifique spécialité Mathématiques)
 <br><br>
 
 ## Activities and interests
