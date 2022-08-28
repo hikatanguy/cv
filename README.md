@@ -1,11 +1,11 @@
 # Alexandre TANGUY
-<br >
+
 
 ### Engineering manager
 
 Head of IT technical teams and projects with a network and security engineer background.<br>
 - What I (love to) do: management of teams, encouraging excellence, lead by example, being data-driven and customer-oriented.<br>
-- What I am not: a software engineer.<br >
+- What I am not: a software engineer. This is important to have in mind that I don't do software development myself.<br ><br>
 
 [![](https://img.shields.io/badge/PDF-267CB9?style=for-the-badge&logo=docusign)](https://github.com/hikatanguy/cv/raw/main/out/cv_alexandre_tanguy.pdf) &nbsp; [![](https://img.shields.io/badge/Email-267CB9?style=for-the-badge&logo=maildotru)](mailto:alexandre@tanguy.pro) &nbsp; [![](https://img.shields.io/badge/LinkedIn-267CB9?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandretanguy/) <br><br>
 
@@ -23,14 +23,16 @@ Today, I love this mission and I am eager to continue in a challenging environme
 <br><br>
 
 ## Professional experience
-**Engineering Manager** @ [OVHcloud](https://www.ovhcloud.com) _(January 2020 - Present)_ <br>
+**Engineering Manager** @ [OVHcloud](https://www.ovhcloud.com) in Bordeaux _(January 2020 - Present)_ <br>
 *Team leader of the Network Data squad, composed of the Network Observability and the Network IPAM teams.*
 
   - The *Network Observability* team has the mission to design, develop, deploy and maintain internal applications to monitor tens of thousands of network devices: 
     - Metrics: 50M+ timeseries / 1M+ datapoint per second
     - Logs: 25M+ log messages per day
     - ICMP requests/packets: 18M+ packets per minute
-  - The *Network IP Management* team has the mission to design, build and maintain applications to manage (internal and external customers) around 4.5M public IP addresses in 3 RIR (RIPE, ARIN, APNIC) 
+    - Lots of more specific applications in the portfolio (alerts routing, path discovery, BUM collector, etc.)
+
+  - The *Network IP Management* team has the mission to design, build and maintain applications to manage (for internal and external customers) around 4.5M public IP addresses in 3 RIR (RIPE, ARIN, APNIC) 
 
   - Point of contact for other teams and PU about Network observability and IP related topics
   - Follow-up on projects and program, estimation of required workload, planification
@@ -38,7 +40,7 @@ Today, I love this mission and I am eager to continue in a challenging environme
   - Agile methodology implementation and animation: sprint planning, daily, sprint review, retrospective, etc.
 <br><br>
 
-**Network Engineer** @ [OVHcloud](https://www.ovhcloud.com) (Bordeaux) _(Mars 2018 - January 2020)_ <br>
+**Network Engineer** @ [OVHcloud](https://www.ovhcloud.com) in Bordeaux _(Mars 2018 - January 2020)_ <br>
 *Member of the Network Design Datacenter team, I was in charge of the vRack product design and projects.*
 
   - In charge of the design of network products: vRack, datacenter and (during one year) backbone
@@ -47,7 +49,7 @@ Today, I love this mission and I am eager to continue in a challenging environme
   - **_Technologies:_** BGP, VXLAN, ECMP, Cisco and Arista devices, YAML/JSON
 <br><br>
 
-**Network and Security Engineer** @ [Cdiscount](https://www.cdiscount.com) (Bordeaux) _(December 2015 - Mars 2018)_ <br>
+**Network and Security Engineer** @ [Cdiscount](https://www.cdiscount.com) in Bordeaux _(December 2015 - Mars 2018)_ <br>
 *Member of the Security team during 1 year and then moved to the SRE team for 1 year (internal move-up).*
 
   - In charge of the network and security infrastructure operations (L3)
@@ -56,21 +58,23 @@ Today, I love this mission and I am eager to continue in a challenging environme
   - **_Technologies:_** Cisco ACI, Checkpoint firewalls, F5 loadbalancers, Citrix Netscaler, RIP/OSPF/VLAN
 <br><br>
 
-**Network and Security Engineer** @ [Rothschild & Co](https://www.rothschildandco.com/) (Paris) _(February 2015 - November 2015)_ <br>
+**Network and Security Engineer** @ [Rothschild & Co](https://www.rothschildandco.com/) in Paris _(February 2015 - November 2015)_ <br>
 *Member of the Network and Security team, as a project lead of the "IT migration of internal ressources to HP Enterprises", and as Net/Sec engineer.*
 
   - In charge of the network and security operations (support of the team lead)
   - Point of contact and follow-up of the externalisation project
+  - **_Technologies:_** Cisco Catalyst, Checkpoint firewalls, F5 loadbalancers, RIP/OSPF/VLAN
 <br><br>
 
-**Network and Security Engineer** @ [Société Générale](https://www.societegenerale.com) (Paris) _(January 2013 - February 2015)_ <br>
+**Network and Security Engineer** @ [Société Générale](https://www.societegenerale.com) in Paris _(January 2013 - February 2015)_ <br>
 *Member of one of the Network and Security team in charge of FranFinance and La Banque Postale Financement.*
 
   - In charge of infrastructure operations (75%)
   - In charge of infrastructure improvement and migration projects (25%)
+  - **_Technologies:_** Cisco Catalyst, Checkpoint firewalls, Citrix Netscaler
 <br><br>
 
-**Network and Security Engineer** @ [Crédit Agricole - CA Technologies & Services](https://www.credit-agricole.com/marques-et-metiers/toutes-nos-marques/credit-agricole-technologies-et-services) (Lyon, internship) _(July 2011 - November 2012)_<br>
+**Network and Security Engineer** @ [Crédit Agricole - CA Technologies & Services](https://www.credit-agricole.com/marques-et-metiers/toutes-nos-marques/credit-agricole-technologies-et-services) in Lyon (internship) _(July 2011 - November 2012)_<br>
 *Internship and then "contrat de professionnalisation"*
 
   - Assistant of the project lead of the "Migration X25" project
