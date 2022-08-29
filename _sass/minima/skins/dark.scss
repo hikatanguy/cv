@@ -1,28 +1,28 @@
 @charset "utf-8";
 
-$brand-color:           #999999 !default;
-$brand-color-light:     lighten($brand-color, 5%) !default;
-$brand-color-dark:      darken($brand-color, 35%) !default;
+$brand-color:           #999999;
+$brand-color-light:     lighten($brand-color, 5%);
+$brand-color-dark:      darken($brand-color, 35%);
 
-$site-title-color:      $brand-color-light !default;
+$site-title-color:      $brand-color-light;
 
-$text-color:            #bbbbbb !default;
-$background-color:      #181818 !default;
-$code-background-color: #212121 !default;
+$text-color:            #bbbbbb;
+$background-color:      #181818;
+$code-background-color: #212121;
 
-$link-base-color:       #79b8ff !default;
-$link-visited-color:    $link-base-color !default;
-$link-hover-color:      $text-color !default;
+$link-base-color:       #79b8ff;
+$link-visited-color:    $link-base-color;
+$link-hover-color:      $text-color;
 
-$border-color-01:       $brand-color-dark !default;
-$border-color-02:       $brand-color-light !default;
-$border-color-03:       $brand-color !default;
+$border-color-01:       $brand-color-dark;
+$border-color-02:       $brand-color-light;
+$border-color-03:       $brand-color;
 
-$table-text-color:      $text-color !default;
-$table-zebra-color:     lighten($background-color, 4%) !default;
-$table-header-bg-color: lighten($background-color, 10%) !default;
-$table-header-border:   lighten($background-color, 21%) !default;
-$table-border-color:    $border-color-01 !default;
+$table-text-color:      $text-color;
+$table-zebra-color:     lighten($background-color, 4%);
+$table-header-bg-color: lighten($background-color, 10%);
+$table-header-border:   lighten($background-color, 21%);
+$table-border-color:    $border-color-01;
 
 
 // Syntax highlighting styles should be adjusted appropriately for every "skin"

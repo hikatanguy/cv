@@ -19,7 +19,7 @@ Information technology engineer and manager, 33 years old, father of 2, living i
 
 Passionate by the tech universe, project and human management.
 
-After 7 years in the tech field as a network and security engineer, where I learned lots of things and grow up as an engineer and a human being, I understood that I was happier and better leading a team and helping its members to grow. 
+After 7 years in the tech field as a network and security engineer – where I learned lots of things and grew up as an engineer and a human being – I understood that I was happier and more efficient leading a team and helping its members to grow. 
 
 I seized the opportuny offered by OVHcloud to manage one – and then two – teams of software engineers.<br>
 Today, I love this mission and I am eager to continue in a challenging (new?) environment with great ambition, to build strong teams and achieve big projects. 
