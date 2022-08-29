@@ -1,6 +1,8 @@
 theme: minima
 #theme: jekyll-theme-minimal
+minima:
+  skin: dark
 title: Resume (CV)
-description: Helping teams and techs growing and achieving their goals.
+description: Engineering Manager helping teams and techs growing and achieving their goals.
 author:
   name: hikatanguy
