@@ -33,7 +33,7 @@ Today, I love this mission and I am eager to continue in a challenging (new?) en
     - Metrics: 50M+ timeseries / 1M+ datapoint per second
     - Logs: 25M+ log messages per day
     - ICMP requests/packets: 18M+ packets per minute
-    - Lots of more specific applications in the portfolio (alerts routing, path discovery, BUM collector, etc.)<br>
+    - Lots of more specific applications in the portfolio (alerts routing, path discovery, BUM collector, etc.)
 
   - The *Network IP Management (IPAM)* team (2 to 3 engineers) is in charge of managing the OVHcloud IP addresses plan and its growth. This team also develops every tools and backend required to allow OVHcloud squads and units to use, reserve, attribute and release IP addresses. She is also in close relation with the external IP providers (RIPE, ARIN, APNIC). 
 
