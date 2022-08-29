@@ -1,3 +1,5 @@
+minima:
+  skin: dark
 theme: minima
 #theme: jekyll-theme-minimal
 title: Resume (CV)
