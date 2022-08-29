@@ -4,6 +4,7 @@ body {
     margin: auto;
     background: #FFFFFF;
     padding: 10px 10px 10px 10px;
+    text-align: justify;
 }
 
 h1 {
@@ -21,8 +22,8 @@ h2:before {
     content: "";
     display: inline-block;
     margin-right:1%;
-    width: 14%;
-    height: 13px;
+    width: 10%;
+    height: 10px;
     background-color: #33557f;
 }
 dt {
