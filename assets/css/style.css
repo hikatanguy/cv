@@ -12,8 +12,8 @@ h3#engineering-manager {
 h2:before {
     content: "";
     display: inline-block;
-    margin-right: 3%;
+    margin-right: 2%;
     width: 10%;
     height: 8px;
-    background-color: #424242;
+    background-color: #292929;
 }
